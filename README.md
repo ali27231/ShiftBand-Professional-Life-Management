@@ -62,11 +62,11 @@ You can run the project locally by following these steps:
 
 1️⃣ Clone the repository:  
 bash
-git clone https://github.com/your-repo-url.git
+git clone https://github.com/ali27231/ShiftBand-Professional-Life-Management
 
 2️⃣ Navigate to the project folder:  
 bash
-cd project-folder-name
+cd ShiftBand-Professional-Life-Management
 
 3️⃣ Install dependencies:  
 bash
