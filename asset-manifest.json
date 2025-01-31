@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ShiftBand-Professional-Life-Management/static/css/main.bd7ab86a.css",
+    "main.js": "/ShiftBand-Professional-Life-Management/static/js/main.ff339b28.js",
+    "static/media/Vazirmatn-Bold.ttf": "/ShiftBand-Professional-Life-Management/static/media/Vazirmatn-Bold.334c5ba62a09fe7c84c0.ttf",
+    "static/media/Vazirmatn-Regular.ttf": "/ShiftBand-Professional-Life-Management/static/media/Vazirmatn-Regular.f08bc22d4f5bb01fb82f.ttf",
+    "static/media/Vazirmatn-Bold.woff2": "/ShiftBand-Professional-Life-Management/static/media/Vazirmatn-Bold.0d6a47ce8c185a9436b2.woff2",
+    "static/media/Vazirmatn-Regular.woff2": "/ShiftBand-Professional-Life-Management/static/media/Vazirmatn-Regular.58c84f666915410c0ba8.woff2",
+    "index.html": "/ShiftBand-Professional-Life-Management/index.html",
+    "main.bd7ab86a.css.map": "/ShiftBand-Professional-Life-Management/static/css/main.bd7ab86a.css.map",
+    "main.ff339b28.js.map": "/ShiftBand-Professional-Life-Management/static/js/main.ff339b28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd7ab86a.css",
+    "static/js/main.ff339b28.js"
+  ]
+}
