@@ -25,10 +25,10 @@ export const AuthProvider = ({ children }) => {
     },
       {
       username: "Ali_Mashhadi",
-      password: "2723101386",
+      password: "27231",
       name: "علی مشهدی",
-      email: "mashhadia640@gmail.com",
-      phone: "09195379488",
+      email: "mashh0@gmail.com",
+      phone: "091925890923",
       department: "IT",
       specialization: "مدیریت سیستم",
       personalCode: "27231"
