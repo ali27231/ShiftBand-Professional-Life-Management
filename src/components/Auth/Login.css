@@ -1,0 +1,66 @@
+body {
+  direction: rtl;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(135deg, #6a11cb, #2575fc);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  overflow: hidden; /* جلوگیری از اسکرول اضافی */
+}
+
+.container {
+  width: 100%;
+  max-width: 400px;
+  padding: 20px; /* اضافه کردن پدینگ برای جلوگیری از بریدگی */
+  box-sizing: border-box;
+}
+
+.auth-box {
+  background: rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(10px);
+  padding: 20px;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+  width: 90%; /* استفاده از درصد برای واکنش‌گرایی بهتر */
+  max-width: 400px; /* حداکثر عرض برای جلوگیری از بیرون زدگی */
+  box-sizing: border-box; /* جلوگیری از افزایش سایز به خاطر padding */
+}
+
+h2 {
+  color: white;
+}
+
+input {
+  width: calc(100% - 20px); /* محاسبه عرض با در نظر گرفتن padding */
+  padding: 10px;
+  margin: 10px 0;
+  border: none;
+  border-radius: 8px;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  background: #ff5f6d;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #ff3b53;
+}
+
+p {
+  color: white;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+p:hover {
+  text-decoration: underline;
+}
